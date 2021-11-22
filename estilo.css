@@ -1,5 +1,7 @@
 body {
     font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
 }
 
 #paleta {
@@ -27,7 +29,7 @@ body {
 }
 
 .black {
-    background-color: black;
+    background-color: white;
 }
 
 .selected {
@@ -37,7 +39,7 @@ body {
 #board {
     width: 200px;
     height: 200px;
-    border: 1px solid black;
+    border: 1px solid white;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -51,6 +53,6 @@ body {
     width: 40px;
     height: 40px;
     display: table-cell;
-    border: 1px solid black;
+    border: 1px solid white;
     box-sizing: border-box;
 }
