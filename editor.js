@@ -8,7 +8,7 @@ window.onload = function onLoad() {
         elements[i].addEventListener("click", paint)
     }
 
-    let cores = ["black", "green", "red", "blue"];
+    let cores = ["white", "green", "red", "blue"];
     elements = document.getElementsByClassName("box");
     for (let i = 0; i < elements.length; i++) {
         elements[i].style.backgroundColor = cores[i];
