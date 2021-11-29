@@ -25,22 +25,6 @@ main {
     box-sizing: border-box;
 }
 
-.red {
-    background-color: red;
-}
-
-.blue {
-    background-color: blue;
-}
-
-.green {
-    background-color: green;
-}
-
-.black {
-    background-color: white;
-}
-
 .selected {
     border: 3px solid silver;
 }
