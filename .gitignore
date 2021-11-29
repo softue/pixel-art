@@ -1,3 +1,6 @@
+# Editor data
+.vscode
+
 # Logs
 logs
 *.log
